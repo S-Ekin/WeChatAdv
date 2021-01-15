@@ -1,10 +1,10 @@
 // index.ts
 // 获取应用实例
-const app = getApp<IAppOption>()
+const app = getApp<IAppOption>();
 
 Page({
   data: {
-    motto: 'Hello World',
+    motto: 'Hello Worldeeee',
     userInfo: {},
     hasUserInfo: false,
     canIUse: wx.canIUse('button.open-type.getUserInfo'),
